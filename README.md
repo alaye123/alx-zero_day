@@ -1,1 +1,1 @@
-My first readme
+I am Alaye I am enjoing my alx class!
